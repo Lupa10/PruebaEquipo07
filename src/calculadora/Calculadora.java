@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author Ingresar nombre de autor aquí
+ * @author Francisco
  */
 public class Calculadora implements ICalculadora {
 
