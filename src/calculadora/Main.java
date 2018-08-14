@@ -11,7 +11,7 @@ package calculadora;
  */
 public class Main {
     
-    public void main(String args[]) {
+    public static void main(String args[]) {
         Calculadora calculadora = new Calculadora();
 
         int resultadoSuma = calculadora.sumar(1, 1);
